@@ -6,3 +6,5 @@ for i in range(len(X)-2):
         for j in range(i+3, len(X)-2):
             if (X[j:j+3] == "TAA"):
                 print(X[i:j+3])
+                
+print ("Hi");
