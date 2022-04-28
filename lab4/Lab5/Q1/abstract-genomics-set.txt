@@ -1,0 +1,343 @@
+1. Methods Mol Biol. 2012;823:79-88. doi: 10.1007/978-1-60327-216-2_6.
+
+Introduction to genomics.
+
+Del Giacco L(1), Cattaneo C.
+
+Author information:
+(1)Division of Functional and Reproductive Biology, Department of Biology, 
+University of Milan, Milan-MI, Italy. luca.delgiacco@unimi.it
+
+The science of genomes: only within the past few decades have scientists 
+progressed from the analysis of a single or a small number of genes at once to 
+the investigation of thousands of genes, going from the study of the units of 
+inheritance to the investigation of the whole genome of an organism. The science 
+of the genomes, or "genomics," initially dedicated to the determination of DNA 
+sequences (the nucleotide order on a given fragment of DNA), has promptly 
+expanded toward a more functional level--studying the expression profiles and 
+the roles of both genes and proteins. The aim of the chapter is to review some 
+basic assumptions and definitions that are the fabric of genomics, and to 
+elucidate key concepts and approaches on which genomics rely.
+
+DOI: 10.1007/978-1-60327-216-2_6
+PMID: 22081340 [Indexed for MEDLINE]
+
+
+2. Nat Rev Genet. 2020 Apr;21(4):243-254. doi: 10.1038/s41576-020-0210-7. Epub 2020 
+Feb 7.
+
+Pan-genomics in the human genome era.
+
+Sherman RM(1)(2), Salzberg SL(3)(4)(5)(6).
+
+Author information:
+(1)Department of Computer Science, Whiting School of Engineering, Johns Hopkins 
+University, Baltimore, MD, USA. rsherman@jhu.edu.
+(2)Center for Computational Biology, Whiting School of Engineering, Johns 
+Hopkins University, Baltimore, MD, USA. rsherman@jhu.edu.
+(3)Department of Computer Science, Whiting School of Engineering, Johns Hopkins 
+University, Baltimore, MD, USA.
+(4)Center for Computational Biology, Whiting School of Engineering, Johns 
+Hopkins University, Baltimore, MD, USA.
+(5)Department of Biomedical Engineering, Johns Hopkins School of Medicine, 
+Baltimore, MD, USA.
+(6)Department of Biostatistics, Bloomberg School of Public Health, Johns Hopkins 
+University, Baltimore, MD, USA.
+
+Since the early days of the genome era, the scientific community has relied on a 
+single 'reference' genome for each species, which is used as the basis for a 
+wide range of genetic analyses, including studies of variation within and across 
+species. As sequencing costs have dropped, thousands of new genomes have been 
+sequenced, and scientists have come to realize that a single reference genome is 
+inadequate for many purposes. By sampling a diverse set of individuals, one can 
+begin to assemble a pan-genome: a collection of all the DNA sequences that occur 
+in a species. Here we review efforts to create pan-genomes for a range of 
+species, from bacteria to humans, and we further consider the computational 
+methods that have been proposed in order to capture, interpret and compare 
+pan-genome data. As scientists continue to survey and catalogue the genomic 
+variation across human populations and begin to assemble a human pan-genome, 
+these efforts will increase our power to connect variation to human diversity, 
+disease and beyond.
+
+DOI: 10.1038/s41576-020-0210-7
+PMCID: PMC7752153
+PMID: 32034321 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing interests.
+
+
+3. Methods Mol Biol. 2018;1704:55-78. doi: 10.1007/978-1-4939-7463-4_3.
+
+Comparative Genomics for Prokaryotes.
+
+Setubal JC(1), Almeida NF(2), Wattam AR(3).
+
+Author information:
+(1)Department of Biochemistry, Institute of Chemistry, University of São Paulo, 
+Av. Prof. Lineu Prestes 748, São Paulo, SP, 05508-000, Brazil. 
+Setubal@iq.usp.br.
+(2)School of Computing, Federal University of Mato Grosso do Sul, Campo Grande, 
+MS, Brazil.
+(3)Biocomplexity Institute, Virginia Tech, Blacksburg, VA, USA.
+
+Bacteria and archaea, collectively known as prokaryotes, have in general genomes 
+that are much smaller than those of eukaryotes. As a result, thousands of these 
+genomes have been sequenced. In prokaryotes, gene architecture lacks the 
+intron-exon structure of eukaryotic genes (with an occasional exception). These 
+two facts mean that there is an abundance of data for prokaryotic genomes, and 
+that they are easier to study than the more complex eukaryotic genomes. In this 
+chapter, we provide an overview of genome comparison tools that have been 
+developed primarily (sometimes exclusively) for prokaryotic genomes. We cover 
+methods that use only the DNA sequences, methods that use only the gene content, 
+and methods that use both data types.
+
+DOI: 10.1007/978-1-4939-7463-4_3
+PMID: 29277863 [Indexed for MEDLINE]
+
+
+4. Methods Mol Biol. 2019;1910:555-589. doi: 10.1007/978-1-4939-9074-0_18.
+
+Ancestral Population Genomics.
+
+Dutheil JY(1), Hobolth A(2).
+
+Author information:
+(1)Department of Evolutionary Genetics, Max Planck Institute of Evolutionary 
+Biology, Plön, Germany. dutheil@evolbio.mpg.de.
+(2)Bioinformatics Research Center (BiRC), Aarhus University, Aarhus, Denmark.
+
+Borrowing both from population genetics and phylogenetics, the field of 
+population genomics emerged as full genomes of several closely related species 
+were available. Providing we can properly model sequence evolution within 
+populations undergoing speciation events, this resource enables us to estimate 
+key population genetics parameters such as ancestral population sizes and split 
+times. Furthermore we can enhance our understanding of the recombination process 
+and investigate various selective forces. With the advent of resequencing 
+technologies, genome-wide patterns of diversity in extant populations have now 
+come to complement this picture, offering an increasing power to study more 
+recent genetic history.We discuss the basic models of genomes in populations, 
+including speciation models for closely related species. A major point in our 
+discussion is that only a few complete genomes contain much information about 
+the whole population. The reason being that recombination unlinks genomic 
+regions, and therefore a few genomes contain many segments with distinct 
+histories. The challenge of population genomics is to decode this mosaic of 
+histories in order to infer scenarios of demography and selection. We survey 
+modeling strategies for understanding genetic variation in ancestral populations 
+and species. The underlying models build on the coalescent with recombination 
+process and introduce further assumptions to scale the analyses to genomic data 
+sets.
+
+DOI: 10.1007/978-1-4939-9074-0_18
+PMID: 31278677 [Indexed for MEDLINE]
+
+
+5. Trends Microbiol. 2021 Jul;29(7):582-592. doi: 10.1016/j.tim.2021.01.005. Epub 
+2021 Feb 1.
+
+Evolution of Microbial Genomics: Conceptual Shifts over a Quarter Century.
+
+Koonin EV(1), Makarova KS(2), Wolf YI(2).
+
+Author information:
+(1)National Center for Biotechnology Information, National Library of Medicine, 
+Bethesda, MD 20894, USA. Electronic address: koonin@ncbi.nlm.nih.gov.
+(2)National Center for Biotechnology Information, National Library of Medicine, 
+Bethesda, MD 20894, USA.
+
+Prokaryote genomics started in earnest in 1995, with the complete sequences of 
+two small bacterial genomes, those of Haemophilus influenzae and Mycoplasma 
+genitalium. During the next quarter century, the prokaryote genome database has 
+been growing exponentially, with no saturation in sight. For most of these 25 
+years, genome sequencing remained limited to cultivable microbes. Together with 
+next-generation sequencing methods, advances in metagenomics and single-cell 
+genomics have lifted this limitation, providing for an increasingly unbiased 
+characterization of the global prokaryote diversity. Advances in computational 
+genomics followed the progress of genome sequencing, even if occasionally 
+lagging behind. Several major new branches of bacteria and archaea were 
+discovered, including Asgard archaea, the apparent closest relatives of 
+eukaryotes and expansive groups of bacteria and archaea with small genomes 
+thought to be symbionts of other prokaryotes. Comparative analysis of numerous 
+prokaryote genomes spanning a wide range of evolutionary distances changed the 
+conceptual foundations of microbiology, supplanting the notion of species 
+genomes with fixed gene sets with that of dynamic pangenomes and the notion of a 
+single Tree of Life (ToL) with a statistical tree-like trend among individual 
+gene trees. Strides were also made towards a theory and quantitative laws of 
+prokaryote genome evolution.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.tim.2021.01.005
+PMID: 33541841 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no 
+competing financial interests.
+
+
+6. Trends Plant Sci. 2020 Oct;25(10):1030-1040. doi: 10.1016/j.tplants.2020.04.016. 
+Epub 2020 Jun 9.
+
+Single-Cell Genomics and Epigenomics: Technologies and Applications in Plants.
+
+Luo C(1), Fernie AR(2), Yan J(3).
+
+Author information:
+(1)National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+University, Wuhan 430070, China.
+(2)Department of Molecular Physiology, Max-Planck-Institute of Molecular Plant 
+Physiology, Am Mühlenberg 1, 14476 Potsdam-Golm, Germany.
+(3)National Key Laboratory of Crop Genetic Improvement, Huazhong Agricultural 
+University, Wuhan 430070, China. Electronic address: yjianbing@mail.hzau.edu.cn.
+
+The development of genomics and epigenomics has allowed rapid advances in our 
+understanding of plant biology. However, conventional bulk analysis dilutes 
+cell-specific information by providing only average information, thereby 
+limiting the resolution of genomic and functional genomic studies. Recent 
+advances in single-cell sequencing technology concerning genomics and 
+epigenomics open new avenues to dissect cell heterogeneity in multiple 
+biological processes. Recent applications of these approaches to plants have 
+provided exciting insights into diverse biological questions. We highlight the 
+methodologies underlying the current techniques of single-cell genomics and 
+epigenomics before covering their recent applications, potential significance, 
+and future perspectives in plant biology.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tplants.2020.04.016
+PMID: 32532595 [Indexed for MEDLINE]
+
+
+7. Annu Rev Plant Biol. 2021 Jun 17;72:411-435. doi: 
+10.1146/annurev-arplant-080720-105454. Epub 2021 Apr 13.
+
+Plant Pan-Genomics Comes of Age.
+
+Lei L(1), Goltsman E(1), Goodstein D(1), Wu GA(1), Rokhsar DS(1)(2), Vogel 
+JP(1)(3).
+
+Author information:
+(1)DOE Joint Genome Institute, Berkeley, California 94720, USA; email: 
+JPVogel@lbl.gov.
+(2)Department of Molecular and Cell Biology, University of California, Berkeley, 
+California 94720, USA.
+(3)Department of Plant and Microbial Biology, University of California, 
+Berkeley, California 94720, USA.
+
+A pan-genome is the nonredundant collection of genes and/or DNA sequences in a 
+species. Numerous studies have shown that plant pan-genomes are typically much 
+larger than the genome of any individual and that a sizable fraction of the 
+genes in any individual are present in only some genomes. The construction and 
+interpretation of plant pan-genomes are challenging due to the large size and 
+repetitive content of plant genomes. Most pan-genomes are largely focused on 
+nontransposable element protein coding genes because they are more easily 
+analyzed and defined than noncoding and repetitive sequences. Nevertheless, 
+noncoding and repetitive DNA play important roles in determining the phenotype 
+and genome evolution. Fortunately, it is now feasible to make multiple 
+high-quality genomes that can be used to construct high-resolution pan-genomes 
+that capture all the variation. However, assembling, displaying, and interacting 
+with such high-resolution pan-genomes will require the development of new tools.
+
+DOI: 10.1146/annurev-arplant-080720-105454
+PMID: 33848428 [Indexed for MEDLINE]
+
+
+8. Brief Bioinform. 2019 Jul 19;20(4):1063-1070. doi: 10.1093/bib/bbx117.
+
+Microbial genome analysis: the COG approach.
+
+Galperin MY, Kristensen DM, Makarova KS, Wolf YI, Koonin EV.
+
+For the past 20 years, the Clusters of Orthologous Genes (COG) database had been 
+a popular tool for microbial genome annotation and comparative genomics. 
+Initially created for the purpose of evolutionary classification of protein 
+families, the COG have been used, apart from straightforward functional 
+annotation of sequenced genomes, for such tasks as (i) unification of genome 
+annotation in groups of related organisms; (ii) identification of missing and/or 
+undetected genes in complete microbial genomes; (iii) analysis of genomic 
+neighborhoods, in many cases allowing prediction of novel functional systems; 
+(iv) analysis of metabolic pathways and prediction of alternative forms of 
+enzymes; (v) comparison of organisms by COG functional categories; and (vi) 
+prioritization of targets for structural and functional characterization. Here 
+we review the principles of the COG approach and discuss its key advantages and 
+drawbacks in microbial genome analysis.
+
+Published by Oxford University Press 2017. This work is written by US Government 
+employees and is in the public domain in the US.
+
+DOI: 10.1093/bib/bbx117
+PMCID: PMC6781585
+PMID: 28968633 [Indexed for MEDLINE]
+
+
+9. Brief Bioinform. 2018 Jan 1;19(1):118-135. doi: 10.1093/bib/bbw089.
+
+Computational pan-genomics: status, promises and challenges.
+
+Computational Pan-Genomics Consortium.
+
+Collaborators: Marschall T, Marz M, Abeel T, Dijkstra L, Dutilh BE, Ghaffaari A, 
+Kersey P, Kloosterman WP, Mäkinen V, Novak AM, Paten B, Porubsky D, Rivals E, 
+Alkan C, Baaijens JA, De Bakker PIW, Boeva V, Bonnal RJP, Chiaromonte F, Chikhi 
+R, Ciccarelli FD, Cijvat R, Datema E, Van Duijn CM, Eichler EE, Ernst C, Eskin 
+E, Garrison E, El-Kebir M, Klau GW, Korbel JO, Lameijer EW, Langmead B, Martin 
+M, Medvedev P, Mu JC, Neerincx P, Ouwens K, Peterlongo P, Pisanti N, Rahmann S, 
+Raphael B, Reinert K, de Ridder D, de Ridder J, Schlesner M, Schulz-Trieglaff O, 
+Sanders AD, Sheikhizadeh S, Shneider C, Smit S, Valenzuela D, Wang J, Wessels L, 
+Zhang Y, Guryev V, Vandin F, Ye K, Schönhuth A.
+
+Many disciplines, from human genetics and oncology to plant breeding, 
+microbiology and virology, commonly face the challenge of analyzing rapidly 
+increasing numbers of genomes. In case of Homo sapiens, the number of sequenced 
+genomes will approach hundreds of thousands in the next few years. Simply 
+scaling up established bioinformatics pipelines will not be sufficient for 
+leveraging the full potential of such rich genomic data sets. Instead, novel, 
+qualitatively different computational methods and paradigms are needed. We will 
+witness the rapid extension of computational pan-genomics, a new sub-area of 
+research in computational biology. In this article, we generalize existing 
+definitions and understand a pan-genome as any collection of genomic sequences 
+to be analyzed jointly or to be used as a reference. We examine already 
+available approaches to construct and use pan-genomes, discuss the potential 
+benefits of future technologies and methodologies and review open challenges 
+from the vantage point of the above-mentioned biological disciplines. As a 
+prominent example for a computational paradigm shift, we particularly highlight 
+the transition from the representation of reference genomes as strings to 
+representations as graphs. We outline how this and other challenges from 
+different application domains translate into common computational problems, 
+point out relevant bioinformatics techniques and identify open problems in 
+computer science. With this review, we aim to increase awareness that a joint 
+approach to computational pan-genomics can help address many of the problems 
+currently faced in various domains.
+
+© The Author 2016. Published by Oxford University Press.
+
+DOI: 10.1093/bib/bbw089
+PMCID: PMC5862344
+PMID: 27769991 [Indexed for MEDLINE]
+
+
+10. Curr Opin Biotechnol. 2012 Oct;23(5):659-65. doi: 10.1016/j.copbio.2012.01.014. 
+Epub 2012 Feb 17.
+
+Synthetic genomics: potential and limitations.
+
+Montague MG(1), Lartigue C, Vashee S.
+
+Author information:
+(1)J. Craig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850, 
+United States.
+
+Technologies to synthetically assemble chromosome sized fragments of DNA as well 
+as to enable making thousands of simultaneous changes to existing genomes are 
+now available. These capacities are collectively termed synthetic genomics. The 
+implications of synthetic genomics extend beyond the limited pathway and gene 
+engineering of the past to include the engineering or whole metabolisms, 
+regulatory networks, and even ecosystems. However, in order for those potentials 
+to be met, certain limitations and barriers must be overcome. These barriers no 
+longer include DNA modification and assembly, but instead are based in the 
+limited organisms that many synthetic genomics methods function in, and the 
+limited software for designing custom genomic sequences.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.copbio.2012.01.014
+PMID: 22342755 [Indexed for MEDLINE]
